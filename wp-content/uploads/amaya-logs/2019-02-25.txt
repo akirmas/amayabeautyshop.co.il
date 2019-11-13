@@ -1,0 +1,307 @@
+17:19:00 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 191
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 28
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1128
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 615
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+17:40:16 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 192
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 28
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1128
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 616
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+17:40:41 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 193
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 617
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:10:07 | Array
+(
+    [Response] => 447
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 194
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 27
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1127
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0100000
+    [index] => 0 618
+    [Tempref] => 00030001
+    [CVVstatus] => 7
+    [Responsesource] => 0
+
+
+)
+
+18:13:49 | Array
+(
+    [<html><head><META_NAME] => "ROBOTS" CONTENT="NOINDEX, NOFOLLOW"></head><body>
+<center><h1>Tranzila</h1><br>
+An error ocurred with the following message:<br>
+<h3><b><font color=red> DB response error: Application error </font></b><br></h3>
+Please use the BACK button in your browser.<br>
+</center></body></html>
+)
+
+18:20:34 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 196
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 619
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:22:34 | Array
+(
+    [Response] => 447
+    [mycvv] => 0
+    [ccexpm] => 01
+    [myid] => 197
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 19
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 0119
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0100000
+    [index] => 0 620
+    [Tempref] => 00030001
+    [CVVstatus] => 9
+    [Responsesource] => 0
+
+
+)
+
+18:28:34 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 198
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 621
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:29:36 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 199
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 622
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:33:38 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 200
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => Amaya Beauty Shop
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 623
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:40:01 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 201
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => amayabeautyshop.co.il
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 624
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+
+18:47:50 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 202
+    [contact] => Testfirstname Testlastname
+    [ccexpy] => 22
+    [last_name] => Testlastname
+    [email] => kostyatereshchuk@mail.ru
+    [currency] => 1
+    [ccno] => 1111
+    [supplier] => venus
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1122
+    [sum] => 1650
+    [company] => amayabeautyshop.co.il
+    [first_name] => Testfirstname
+    [ConfirmationCode] => 0000000
+    [index] => 625
+    [Tempref] => 30001002
+    [CVVstatus] => 0
+    [Responsesource] => 2
+
+
+)
+

@@ -1,0 +1,31 @@
+Date: 2018-12-25 14:13:00
+Backup Method: reload
+Restore Method: standard
+User Mode: free
+BackupGuard version: 1.1.79
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://185.237.97.35/amayabeautyshop.co.il
+Home URL: http://185.237.97.35/amayabeautyshop.co.il
+Uploads path: /var/www/amayabeautyshop.co.il/wp-content/uploads
+Site installation: standard
+OS: Linux
+Server: Apache/2.4.29 (Ubuntu)
+User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+PHP version: 7.2.10-0ubuntu0.18.04.1
+SAPI: apache2handler
+MySQL version: 5.7.24
+Int size: 8
+Int lib: BigInteger
+Memory limit: 128M
+Max execution time: 30
+Disk free space: 2.6GB
+Archive Size: 36.9MB (36910185 bytes)
+Environment: Wordpress 5.0.2
+
+---
+Archive version: 5
+Archive database prefix: wp_
+Archive site URL: http://amaya.loc
+
+2018-12-25 14:13:00: SGExceptionMigrationError: You should install <b>BackupGuard Pro</b> to be able to migrate the website. More detailed information regarding features included in <b>Free</b> and <b>Pro</b> versions you can find here: <a href='https://backup-guard.com/products/backup-wordpress'>https://backup-guard.com/products/backup-wordpress</a> [File: /var/www/amayabeautyshop.co.il/wp-content/plugins/backup/com/lib/SGArchive.php, Line: 487, URL: /amayabeautyshop.co.il/wp-admin/admin-ajax.php]

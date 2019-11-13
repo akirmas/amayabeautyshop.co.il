@@ -1,0 +1,28 @@
+14:55:31 | Array
+(
+    [replyCode] => 600
+    [replyDesc] => client closed window before charge
+    [trans_id] => 0
+    [trans_date] => 2019-10-30 14:55:30Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => 
+    [merchantID] => 5963173
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => pYRw7vMFrDGC5db9a45c5f982
+    [signature] => U9MWkTJmbrXTA+LSSzKmet4JzfrwaL+Fg7MXxFECkxE=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => dcdc
+    [client_billCity] => dcdc
+    [client_billZipcode] => 584654
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+

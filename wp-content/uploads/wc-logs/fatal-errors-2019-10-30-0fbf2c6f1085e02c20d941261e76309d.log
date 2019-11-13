@@ -1,0 +1,8 @@
+2019-10-30T09:55:52+00:00 CRITICAL Uncaught Error: Call to undefined function twentynineteen_the_posts_navigation() in /var/www/amayabeautyshop.co.il/wp-content/themes/amaya/archive.php:42
+Stack trace:
+#0 /var/www/amayabeautyshop.co.il/wp-includes/template-loader.php(77): include()
+#1 /var/www/amayabeautyshop.co.il/wp-blog-header.php(19): require_once('/var/www/amayab...')
+#2 /var/www/amayabeautyshop.co.il/index.php(17): require('/var/www/amayab...')
+#3 {main}
+  thrown בקובץ /var/www/amayabeautyshop.co.il/wp-content/themes/amaya/archive.php בשורה 42
+

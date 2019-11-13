@@ -1,0 +1,84 @@
+08:48:21 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => ???
+    [trans_id] => 9075
+    [trans_date] => 2019-10-09 08:48:08Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...0000
+    [merchantID] => 8057557
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => KSaJBSJ5WWOr5d776303d4cf8
+    [signature] => dYzDLdPZ0qg7e5RMzgpp4dfJNIK9iCSJAgpcmZM/tDA=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => kkk
+    [client_billCity] => kkk
+    [client_billZipcode] => 666
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+08:52:06 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => ???
+    [trans_id] => 9076
+    [trans_date] => 2019-10-09 08:51:51Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...0000
+    [merchantID] => 8057557
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => bANHXGkiDAI25d77640aea722
+    [signature] => uie7d+hcpDEqXf4sQhNSvPH3TdHVzukjsIcK5umLV1M=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => kkk
+    [client_billCity] => kkk
+    [client_billZipcode] => 666
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+08:54:58 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => ???
+    [trans_id] => 9077
+    [trans_date] => 2019-10-09 08:54:44Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...0000
+    [merchantID] => 8057557
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => EZoH3vqJ1YgA5d7764acb4431
+    [signature] => ohOmklUQ4A96+6hsUh134aDdAyFwa+qorY5R9YPKmZQ=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => kkk
+    [client_billCity] => kkk
+    [client_billZipcode] => 666
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+

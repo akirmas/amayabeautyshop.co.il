@@ -1,0 +1,56 @@
+10:48:11 | Array
+(
+    [Response] => 000
+    [mycvv] => 0
+    [ccexpm] => 11
+    [myid] => 241
+    [contact] => dov gold
+    [ccexpy] => 21
+    [last_name] => gold
+    [email] => dovg@gobe-mark.com
+    [currency] => 1
+    [supplier] => venus
+    [npay] => 3
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 1121
+    [sum] => 1650
+    [company] => amayabeautyshop.co.il
+    [ccno] => 0273
+    [first_name] => dov
+    [ConfirmationCode] => 1402344
+    [index] => 703
+    [Tempref] => 40001002
+    [CVVstatus] => 0
+    [Responsesource] => 1
+
+
+)
+
+16:27:53 | Array
+(
+    [Response] => 004
+    [mycvv] => 0
+    [ccexpm] => 03
+    [myid] => 242
+    [contact] => Andrii Test
+    [ccexpy] => 20
+    [last_name] => Test
+    [email] => andrii@gobe-mark.com
+    [currency] => 1
+    [supplier] => amaya
+    [npay] => 1
+    [pdesc] => מכשיר RF - לחידוש והצערת עור הפנים (1)
+    [expdate] => 0320
+    [sum] => 1650
+    [company] => amayabeautyshop.co.il
+    [ccno] => 4242
+    [first_name] => Andrii
+    [ConfirmationCode] => 0000000
+    [index] => 4
+    [Tempref] => 01001002
+    [CVVstatus] => 3
+    [Responsesource] => 2
+
+
+)
+

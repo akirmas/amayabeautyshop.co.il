@@ -1,0 +1,142 @@
+08:49:57 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => ???
+    [trans_id] => 9057
+    [trans_date] => 2019-03-09 08:49:43Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...0000
+    [merchantID] => 8057557
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => C3Gz0HLzkcVq5d6e28fea652c
+    [signature] => f6LbHion6vW7lRTdmvvE0+d9ERpR7HLvc+7k2S1YxwQ=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => testt
+    [client_billCity] => testt
+    [client_billZipcode] => 5555
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+14:17:40 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => SUCCESS
+    [trans_id] => 9059
+    [trans_date] => 2019-03-09 14:17:33Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...1111
+    [merchantID] => 8057557
+    [trans_amount] => 1800
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => 4nqVOutKJHVN5d6e75b7a42da
+    [signature] => +goT9xpEezIna0h3FNjul/QbI74IcpZTYvvKVlCTHoM=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => Test address
+    [client_billCity] => Test city
+    [client_billZipcode] => 12345
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+14:22:10 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => SUCCESS
+    [trans_id] => 9060
+    [trans_date] => 2019-03-09 14:22:03Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...1111
+    [merchantID] => 8057557
+    [trans_amount] => 1800
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => ZlPNmirqIEYP5d6e76e15df43
+    [signature] => gfJQudog2gAzZ0o37W5puKP9QBQSBZw4tZzqfhrGTI0=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => Test address
+    [client_billCity] => Test city
+    [client_billZipcode] => 12345
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+15:46:27 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => SUCCESS
+    [trans_id] => 9061
+    [trans_date] => 2019-03-09 15:46:14Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...1111
+    [merchantID] => 8057557
+    [trans_amount] => 1800
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => 76bO4P4Piu1U5d6e8a9bf0e84
+    [signature] => mDcVB/bt5XvOlzmzRYNskjOX9Xx0SsItYkVEKF0og9E=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => Test address
+    [client_billCity] => Test city
+    [client_billZipcode] => 12345
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+15:46:30 | 
+15:50:20 | 
+15:53:37 | Array
+(
+    [replyCode] => 000
+    [replyDesc] => SUCCESS
+    [trans_id] => 9062
+    [trans_date] => 2019-03-09 15:53:25Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => Visa...1111
+    [merchantID] => 8057557
+    [trans_amount] => 1800
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => dV53W8dArGJX5d6e8c55b3e89
+    [signature] => Yc3MgjKX//wX8311L8e25Bfh7SbxyiLhM6CyosHenbc=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => Test address
+    [client_billCity] => Test city
+    [client_billZipcode] => 12345
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+

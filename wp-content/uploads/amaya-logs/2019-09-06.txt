@@ -1,0 +1,28 @@
+22:44:24 | Array
+(
+    [replyCode] => 600
+    [replyDesc] => client closed window before charge
+    [trans_id] => 0
+    [trans_date] => 2019-09-06 22:44:22Z
+    [storage_id] => 0
+    [client_Wallet_id] => 
+    [recurringSeries_id] => 0
+    [paymentDisplay] => 
+    [merchantID] => 8057557
+    [trans_amount] => 1600
+    [trans_installments] => 1
+    [trans_currency] => ILS
+    [client_id] => 
+    [trans_refNum] => RGrcEqx1rIRt5d72e0ffb41fb
+    [signature] => ppPMHw/psPRJl9V2WEQvjaYTwyIrJklHXoZ83TdbLY4=
+    [disp_recurring] => 0
+    [disp_mobile] => true
+    [client_billAddress1] => 0598386974
+    [client_billCity] => khtybasra125@gmail.com
+    [client_billZipcode] => حمورة
+    [client_billState] => Undefined
+    [client_billCountry] => IL
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+

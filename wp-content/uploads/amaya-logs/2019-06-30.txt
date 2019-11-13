@@ -1,0 +1,87 @@
+08:52:18 | Array
+(
+    [Response] => 000
+    [mycvv] => 0
+    [ccexpm] => 04
+    [contact] => test test
+    [ccexpy] => 24
+    [OrderID] => 302
+    [last_name] => test
+    [email] => dovg@ieoil.com
+    [currency] => 1
+    [supplier] => amaya
+    [npay] => 1
+    [pdesc] => מכשיר דרמסניק (1)
+    [expdate] => 0424
+    [sum] => 1600
+    [company] => amayabeautyshop.co.il
+    [ccno] => 4958
+    [tranmode] => A
+    [first_name] => test
+    [ConfirmationCode] => 0784214
+    [index] => 234
+    [Tempref] => 56001001
+    [CVVstatus] => 1
+    [Responsesource] => 1
+
+
+)
+
+08:54:13 | Array
+(
+    [Response] => 000
+    [mycvv] => 0
+    [ccexpm] => 04
+    [contact] => test test
+    [ccexpy] => 24
+    [OrderID] => 303
+    [last_name] => test
+    [email] => dovg@ieoil.com
+    [currency] => 1
+    [supplier] => amaya
+    [npay] => 1
+    [pdesc] => מכשיר EMS (1)
+    [expdate] => 0424
+    [sum] => 1800
+    [company] => amayabeautyshop.co.il
+    [ccno] => 4958
+    [tranmode] => A
+    [first_name] => test
+    [ConfirmationCode] => 0790794
+    [index] => 235
+    [Tempref] => 56001002
+    [CVVstatus] => 1
+    [Responsesource] => 1
+
+
+)
+
+08:56:11 | Array
+(
+    [Response] => 000
+    [mycvv] => 0
+    [ccexpm] => 04
+    [contact] => test test
+    [ccexpy] => 24
+    [OrderID] => 304
+    [last_name] => test
+    [email] => dovg@ieoil.com
+    [currency] => 1
+    [supplier] => amaya
+    [npay] => 1
+    [pdesc] => Dermineck (1)
+    [expdate] => 0424
+    [sum] => 840
+    [company] => amayabeautyshop.co.il
+    [ccno] => 4958
+    [tranmode] => A
+    [first_name] => test
+    [ConfirmationCode] => 0797708
+    [index] => 236
+    [Tempref] => 56001003
+    [CVVstatus] => 1
+    [Responsesource] => 1
+
+
+)
+
