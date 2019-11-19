@@ -966,6 +966,12 @@ body.amaya-is-new-store .footer-container { background: #327d8e; }
     body.amaya-is-new-store:not(.amaya-is-new-product-page) #header .page-header-contact-phone a { font-size: 11px !important; }
 }
 
+.amaya-coriunder-form {
+    width: 424px;
+}
 
-
-
+@media screen and (max-width: 400px) {
+    .amaya-coriunder-form {
+        width: 332px;
+    }
+}
